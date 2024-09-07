@@ -3,13 +3,13 @@
 The Smart Iron Box is an automated solution designed to enhance safety and energy efficiency while ironing clothes. This project uses sensors and servos to detect when the iron box is left unattended and automatically lifts it, cutting off the power to prevent accidents.
 
 Table of Contents
-    Introduction
-    Components Required
-    How It Works
-    Wiring Diagram
-    Code
-    Applications
-    Future Improvements
+   \n Introduction
+   \n  Components Required
+   \n How It Works
+   \n Wiring Diagram
+   \n Code
+   \n Applications
+   \n Future Improvements
 Introduction
 This project is designed to solve the issue of leaving an iron box on, which could potentially burn clothes or cause accidents even if the iron box has an auto cutoff feature. The system detects whether the user is holding the iron box and powers it off and lifts it if left unattended for a certain amount of time.
 
